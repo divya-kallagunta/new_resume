@@ -1,0 +1,97 @@
+body{
+    background: rgb(9,9,14);
+    background: linear-gradient(90deg, rgba(9,9,14,1) 0%, rgba(73,59,71,1) 62%);
+    
+}
+.container{
+    width:370px;
+    height:820px;
+    margin-left: 440px;
+    margin-top:50px;
+    border-width:2px;
+    border-radius: 3px;
+    border-style:solid;
+    background-color:black;
+}
+.nav--icon{
+    width:340px;
+    margin-left:10px;
+  }
+#head{
+    margin-top:5px;
+    color:white;
+    text-align:center;
+    
+}
+#head2{
+    color:rgb(133, 97, 7);
+    text-align: center;
+    margin-top:-5px;
+}
+.button{
+    display:flex;
+   height: 30px;
+}
+#btn-1{
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 20px;
+    width:150px;
+    height:40px;
+    padding:10px;
+    
+}
+#btn-2{
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 30px;
+    background-color:rgb(90, 180, 216);
+    width:150px;
+    height:40px;
+    padding:10px;
+  
+    font-size:15px;
+}
+.title{
+    font-size:19px;
+    font-style:bold;
+}
+a{
+    
+   text-decoration: none;
+   color:black;
+}
+h3{
+    color: white;
+    margin-top: 27px;
+    margin-left:25px;
+}
+p{
+    justify-content: center;
+    color:whitesmoke;
+    margin: 25px;
+   
+}
+.interest{
+    color:white;
+   
+
+}
+.interest ul
+{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+  
+.container-2{
+    background-color: rgb(46, 47, 48);
+    height:50px;
+    font-size:40px;
+    width:370px;
+   padding-top:10px;
+}
+.icon{
+    margin-left:38px;
+}
+ 
+    
